@@ -1,0 +1,1 @@
+# The Simon game is an electronic memory game where players repeat sequences of flashing lights and tones. The game starts with a simple sequence that progressively becomes longer and more complex, challenging players to remember and replicate the pattern. 
